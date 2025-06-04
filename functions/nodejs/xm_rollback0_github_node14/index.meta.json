@@ -1,0 +1,16 @@
+{
+  "apiID": "app_37442_package_2b8286__c__function_aadiiajdblsgw",
+  "apiName": "xm_rollback0_github_node14",
+  "label": {
+    "zh_CN": "xm_rollback0_github_node14",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
