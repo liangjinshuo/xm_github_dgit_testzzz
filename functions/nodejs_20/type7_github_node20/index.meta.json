@@ -1,0 +1,16 @@
+{
+  "apiID": "app_37442_package_2b8286__c__function_aadiiacsyuepu",
+  "apiName": "type7_github_node20",
+  "label": {
+    "zh_CN": "type7_github_node20",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
