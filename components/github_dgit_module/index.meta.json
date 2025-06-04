@@ -1,0 +1,15 @@
+{
+  "apiName": "github_dgit_module",
+  "label": {
+    "zh_CN": "github dgit module",
+    "en_US": "github dgit module"
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "github dgit module 组件描述",
+    "en_US": "github dgit module component description"
+  },
+  "device": ["pc"],
+  "protocolVersion": "3.0"
+}
